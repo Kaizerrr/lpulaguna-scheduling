@@ -348,8 +348,8 @@ endif;
 				</div>
 				<hr>
 				<div class="modal-footer">
-					<button type="submit" name="search" class="btn btn-primary">Display Schedule</button>
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="submit" name="search" class="btn btn-primary" style="background-color:#a62d38; border: 1px solid black;">Display Schedule</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal" style="background-color:white; color:black; border: 1px solid  black;">Close</button>
 				</div>
 				</form>
 			</div>
@@ -391,8 +391,8 @@ endif;
 				</div>
 				<hr>
 				<div class="modal-footer">
-					<button type="submit" name="search" class="btn btn-primary">Display Schedule</button>
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="submit" name="search" class="btn btn-primary" style="background-color:#a62d38; border: 1px solid black;">Display Schedule</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal" style="background-color:white; color:black; border: 1px solid  black;">Close</button>
 				</div>
 				</form>
 			</div>
@@ -434,8 +434,8 @@ endif;
 				</div>
 				<hr>
 				<div class="modal-footer">
-					<button type="submit" name="search" class="btn btn-primary">Display Schedule</button>
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="submit" name="search" class="btn btn-primary" style="background-color:#a62d38; border: 1px solid black;">Display Schedule</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal" style="background-color:white; color:black; border: 1px solid  black;">Close</button>
 				</div>
 				</form>
 			</div>
